@@ -33,7 +33,7 @@ public class FirstScenario {
 
 		            // 7. Click "Get Checked Value"
 		            driver.findElement(By.id("showInput")).click();
-		            // asd
+		            // 
 
 		            // 8. Verify output
 		            WebElement displayed = driver.findElement(By.id("message"));
